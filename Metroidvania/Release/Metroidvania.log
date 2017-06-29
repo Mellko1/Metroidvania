@@ -1,6 +1,19 @@
-﻿  main.cpp
-  Generating code
-  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Metroidvania.vcxproj -> K:\projekty\sfmlMetroidvania\Metroidvania\Release\Metroidvania.exe
-  Metroidvania.vcxproj -> K:\projekty\sfmlMetroidvania\Metroidvania\Release\Metroidvania.pdb (Full PDB)
+﻿  GuiEngine.cpp
+GuiEngine.cpp(132): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+GuiEngine.cpp(132): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+GuiEngine.cpp(133): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+GuiEngine.cpp(133): warning C4244: "inicjowanie": konwersja z "double" do "const float", możliwa utrata danych
+GuiEngine.cpp(163): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+GuiEngine.cpp(183): warning C4244: "argument": konwersja z "float" do "sf::Uint8", możliwa utrata danych
+  GuiScreen.cpp
+  main.cpp
+  ScreenGameplay.cpp
+  ScreenMenu.cpp
+  ScreenOptions.cpp
+  TickClock.cpp
+  Trwa generowanie kodu
+  283 of 283 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    279 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Metroidvania.vcxproj -> K:\projekty\Metroidvania\Metroidvania\Release\Metroidvania.exe
